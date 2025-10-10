@@ -2,7 +2,7 @@
 
 The NASA Bioscience Knowledge Engine is a sophisticated RAG (Retrieval-Augmented Generation) system designed to provide intelligent answers from a vast collection of NASA bioscience research papers. It combines a powerful AI backend for processing and a modern web frontend for user interaction.
 
-## Table of Contents
+## Table of Contents   
 
 - Features
 - Architecture
